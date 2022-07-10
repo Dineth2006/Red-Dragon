@@ -1,4 +1,4 @@
-//════════════(00)════════════════\\
+r//════════════(00)════════════════\\
 //
 //          RED DRAGON v6.0
 //
@@ -22,20 +22,20 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is 𝔻𝕚𝕟𝕖𝕥𝕙_𝕀𝕟𝕕𝕦𝕤𝕒𝕣𝕒` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94726124333'] //Owner number in aive msg
-global.premium = ['+94726124333'] //Owner Number info
-global.ownernomer = '+94726124333' //Owner Number <<<
+global.owner = ['‪+94775860022‬'] //Owner number in aive msg
+global.premium = ['‪+94775860022‬'] //Owner Number info
+global.ownernomer = '‪+94775860022‬' //Owner Number <<<
 
-global.ownername = '𝔻𝕚𝕟𝕖𝕥𝕙_𝕀𝕟𝕕𝕦𝕤𝕒𝕣𝕒' //Owner Name
+global.ownername = 'K.H. Janidu Theekshana' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
 
-global.region = 'US' //Country Region
+global.region = 'Sri lanka' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '𝔻𝕚𝕟𝕖𝕥𝕙_𝕀𝕟𝕕𝕦𝕤𝕒𝕣𝕒' //Author Name
+global.author = 'Janidu Theekshana' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
